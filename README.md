@@ -23,7 +23,7 @@ This is the main script for NFT minting. You will have to set your own variables
 
 
 # **build.sh**
-This scripts builds the raw transaction. Some variables need to be set also:
+This script builds the raw transaction. Some variables need to be set also:
 
 - script
 - metadata
