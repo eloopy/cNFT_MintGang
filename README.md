@@ -1,4 +1,6 @@
-# **cNFT_MintGang**
+<h1 align="center">
+  cNFT_MintGang
+</h1>
 
 The cNFT_MintGang is a group of Python and Bash scripts created to help mint Cardano NFT's and Native Tokens.
 The scripts follows the process described in the [Cardano Developer Portal](https://developers.cardano.org).
