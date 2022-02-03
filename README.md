@@ -10,21 +10,33 @@ You will also need cardano-cli and cardano-node installed. You can follow the [G
 This is the main script for NFT minting. You will have to set your own variables:
 
 tamount
+
 policy_ID
+
 payAddr
+
 payAddr_skey
+
 deadLine_slot
+
 deposit
+
 socketPath
-pinFile_endPoint  
+
+pinFile_endPoint
+
 authToken
+
 
 # **build.sh**
 This scripts builds the raw transaction. Some variables need to be set also:
 
 script
+
 metadata
+
 protocol
+
 
 
 
